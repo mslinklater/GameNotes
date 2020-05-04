@@ -1,0 +1,39 @@
+# Checklists
+
+## Cold & Dark
+
+Master Battery - ON
+Fuel Feeds - BOTH ON
+Mixture - AUTO RICH
+Throttle - CLOSED
+Feather - FULL FORWARD
+
+Repeat for each engine...
+	Booster Pump - ON
+	Engine start...
+	Generator - ON
+	Booster Pump - OFF
+
+## Pre-Taxi
+
+Get ATIS and plan departure runway
+Tune radios and leaving VORs
+Transponder to Standby
+
+## Taxi
+
+## At Threshold
+
+Transponder to On (Mode C)
+
+## Pre-Takeoff
+
+## Climb
+
+## Cruise
+
+## Descent
+
+## Final
+
+## Shutdown

@@ -1,0 +1,6 @@
+ALT - altitude
+VS - vertical speed
+GS - ground speed
+LOC - follow localiser (VOR/ILS/GPS)
+HDG - follow heading bug
+BC - back course
