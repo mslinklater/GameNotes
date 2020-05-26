@@ -8,11 +8,10 @@ Remove all external items
 Batteries ON
 External Power ON
 Bleed Valves RESET/AUTO
-Avionics ALL ON
+Essential Avionics ON
 Oxygen ON
 Circuit Breakers CHECKED
 Parking Brake SET
-Cabin Signs ON
 Engine Instruments/Ignition CHECKED
 Fuel Quantity CHECKED
 Hydraulics CHECKED
@@ -20,21 +19,35 @@ Power GROUND IDLE
 Condition Levers FUEL OFF
 Trims SET
 Takeoff Speed Bug SET
+Boot Indicators ON
+HP Valve Reset L/R CLOSED
+Main Inverter ON
+Beacon ON
+Seat Belt ON
+No SMoking ON
 
 ## Engine Start
 
 Condition Levers START
+
 Start R Engine
 Stabilise
-Start L Engine
-
-Beacon ON
-Door Status CHECKED
-Autocoarsen ON
-Bus Tie CHECKED
+Reset Generators
+Reset Bleed Valve
 External Power OFF
-Check Generators
 Remove External Power Unit
+
+Start L Engine
+Stabilise
+Reset Generators
+Reset Bleed Valve
+
+Autocoarsen ON
+L/R Avionics ON
+Recirc ON
+Emergency Lighting ARMED
+Door Status CHECKED
+Bus Tie CHECKED
 Emergency Lights ARMED
 Fuel Used RESET
 Condition Levers MAX
@@ -49,10 +62,21 @@ Brakes CHECKED
 Altimeters BOTH CHECKED
 Flaps CEHCKED
 CTOT SET
+External Lights SET
+Taxi LIghts SET
 
 ## Pre-Takeoff
+Bleed Valves CLOSED
+Takeoff Inhibitors
+Start Timers
+
+CTOT stuff...
 
 ## Climb
+Gear UP
+Reset Bleed Valves
+Taxi Light OFF
+AUtocoarsen OFF
 
 ## Cruise
 

@@ -26,6 +26,7 @@ Set departure autopilot settings
 
 Transponder to SET
 Props to MIN
+Trim to takeoff
 
 ## Pre-Takeoff
 
@@ -35,7 +36,8 @@ Increase power
 ## Climb
 
 Flaps up
-Engage autopilot systemsb
+Feather to maintain prop RPM
+Engage autopilot systems*
 
 ## Cruise
 
