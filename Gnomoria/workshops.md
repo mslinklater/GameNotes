@@ -1,27 +1,10 @@
 # Gnomoria Workshops
 
-## Crude Workbench
-
-|Item|Amount|
-|---|---|
-|log|1|
-|raw stone|1|
-
-## Sawmill
-
-|Item|Amount|
-|---|---|
-|workbench|1|
-|chair|1|
-|sawblade|1|
-
 ## Carpenter
 
-|Item|Amount|
-|---|---|
-|workbench|1|
-|chair|1|
-|chisel|1|
+## Crude Workbench
+
+## Sawmill
 
 ## Woodcarver
 
@@ -33,19 +16,8 @@
 
 ## Stonecutter
 
-|Item|Amount|
-|---|---|
-|workbench|1|
-|chair|1|
-|chisel|1|
-
 ## Stonemason
 
-|Item|Amount|
-|---|---|
-|workbench|1|
-|chair|1|
-|chisel|1|
 
 ## Stonecarver
 

@@ -1,11 +1,23 @@
 # Gnomoria Items
 
-log
+## chair
+
+4 plank
+
+## chisel
+
+2 raw stone
+
+## log
+
+1 plank
+
+## workbench
+
+6 plank
+
 raw stone
-workbench
-chair
 sawblade
-chisel
 loom
 bone needle
 table
