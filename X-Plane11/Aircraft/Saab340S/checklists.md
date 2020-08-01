@@ -1,5 +1,7 @@
 # Checklists
 
+Boot Ind ON (STAB & WING, overhead BL)
+
 ## Cold & Dark
 
 Enable external GPU
@@ -19,9 +21,7 @@ Power GROUND IDLE
 Condition Levers FUEL OFF
 Trims SET
 Takeoff Speed Bug SET
-Boot Indicators ON
 HP Valve Reset L/R CLOSED
-Main Inverter ON
 Beacon ON
 Seat Belt ON
 No SMoking ON
@@ -34,8 +34,8 @@ Start R Engine
 Stabilise
 Reset Generators
 Reset Bleed Valve
-External Power OFF
 Remove External Power Unit
+External Power OFF
 
 Start L Engine
 Stabilise
@@ -61,7 +61,7 @@ Steering Lock REMOVED
 Brakes CHECKED
 Altimeters BOTH CHECKED
 Flaps CEHCKED
-CTOT SET
+CTOT SETw
 External Lights SET
 Taxi LIghts SET
 
@@ -70,13 +70,25 @@ Bleed Valves CLOSED
 Takeoff Inhibitors
 Start Timers
 
-CTOT stuff...
+Advance power levers
+Wait for auto-coursen light to illuminate
+CTOT switches on
 
 ## Climb
-Gear UP
-Reset Bleed Valves
+15 degree climb
+gear up
+once gear up lower nose to 10 degrees
+sync
+AP on
+Check power lever
+wind CTOT down
+turn CTOT off
+Condition lever back to minstop 1230 rpm
+Prop sync ON
+Reset bleed valve
 Taxi Light OFF
-AUtocoarsen OFF
+Autocoarsen OFF
+Accelerate at 5 degrees pitch
 
 ## Cruise
 

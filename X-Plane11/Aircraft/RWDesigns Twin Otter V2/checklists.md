@@ -22,7 +22,7 @@ Check ATIS
 Set altimeter
 Set departure autopilot settings
 
-## Pre-Taxi
+## Pre-Taxib
 
 Transponder to SET
 Props to MIN
@@ -41,9 +41,14 @@ Engage autopilot systems*
 
 ## Cruise
 
+Set feather to cruise
+
 ## Descent
 
 ## Final
+
+Flaps 10
+Flaps 20
 
 ## Shutdown
 
